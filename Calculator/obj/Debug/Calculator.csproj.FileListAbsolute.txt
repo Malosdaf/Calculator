@@ -1,0 +1,50 @@
+C:\Users\bellm\OneDrive - malosdaf\Visual Studio\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\bellm\OneDrive - malosdaf\Visual Studio\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\bellm\OneDrive - malosdaf\Visual Studio\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\bellm\OneDrive - malosdaf\Visual Studio\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\bellm\OneDrive - malosdaf\Visual Studio\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\bellm\OneDrive - malosdaf\Visual Studio\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\bellm\OneDrive - malosdaf\Visual Studio\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\bellm\OneDrive - malosdaf\Visual Studio\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\bellm\OneDrive - malosdaf\Visual Studio\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\bellm\OneDrive - malosdaf\Visual Studio\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Reimnop\Downloads\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Reimnop\Downloads\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Reimnop\Downloads\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Reimnop\Downloads\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Reimnop\Downloads\Calculator\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Reimnop\Downloads\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Reimnop\Downloads\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Reimnop\Downloads\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Reimnop\Downloads\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Reimnop\Downloads\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\IT\Calculator\bin\Debug\Calculator.exe.config
+D:\IT\Calculator\bin\Debug\Calculator.exe
+D:\IT\Calculator\bin\Debug\Calculator.pdb
+D:\IT\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\IT\Calculator\obj\Debug\Calculator.Form1.resources
+D:\IT\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\IT\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\IT\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\IT\Calculator\obj\Debug\Calculator.exe
+D:\IT\Calculator\obj\Debug\Calculator.pdb
+D:\PTNK\Project\Calculator\bin\Debug\Calculator.exe.config
+D:\PTNK\Project\Calculator\bin\Debug\Calculator.exe
+D:\PTNK\Project\Calculator\bin\Debug\Calculator.pdb
+D:\PTNK\Project\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\PTNK\Project\Calculator\obj\Debug\Calculator.Form1.resources
+D:\PTNK\Project\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\PTNK\Project\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\PTNK\Project\Calculator\obj\Debug\Calculator.exe
+D:\PTNK\Project\Calculator\obj\Debug\Calculator.pdb
+D:\IT\Học Tin\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\IT\Học Tin\Calculator\obj\Debug\Calculator.Bac2_1an.resources
+D:\IT\Học Tin\Calculator\obj\Debug\Calculator.Form1.resources
+D:\IT\Học Tin\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\IT\Học Tin\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\IT\Học Tin\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\IT\Học Tin\Calculator\obj\Debug\Calculator.exe
+D:\IT\Học Tin\Calculator\obj\Debug\Calculator.pdb
+D:\IT\Học Tin\Calculator\bin\Debug\Calculator.exe.config
+D:\IT\Học Tin\Calculator\bin\Debug\Calculator.exe
+D:\IT\Học Tin\Calculator\bin\Debug\Calculator.pdb
